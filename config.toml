@@ -5,7 +5,7 @@ theme = "hugo-notepadium"
 
 [params]
 logo = "meericon.png"
-slogan = "KANEZEN NI RIKAI SHITA."
+slogan = "Computation in Nature"
 
 [params.math]
 enable = true
