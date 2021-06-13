@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://a-suricata.io/"
 languageCode = "en-us"
 title = "A Suricata"
-theme = "beautifulhugo"
+theme = "hugo-notepadium"
