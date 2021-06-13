@@ -2,3 +2,23 @@ baseURL = "https://a-suricata.io/"
 languageCode = "en-us"
 title = "A Suricata"
 theme = "hugo-notepadium"
+
+[params]
+logo = "meericon.png"
+slogan = "KANEZEN NI RIKAI SHITA."
+
+[params.math]
+enable = true
+use = "katex"
+
+[[params.nav.custom]]
+title = "About"
+url = "/about"
+
+[[params.nav.custom]]
+title = "Blog"
+url = "/blog"
+
+[[params.nav.custom]]
+title = "Github"
+url = "https://github.com/cowkami/"
