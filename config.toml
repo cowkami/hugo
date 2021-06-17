@@ -9,7 +9,7 @@ slogan = "Computation in Nature"
 
 [params.math]
 enable = true
-use = "mathjax"
+use = "katex"
 
 [[params.nav.custom]]
 title = "About"
