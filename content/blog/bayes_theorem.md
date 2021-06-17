@@ -9,9 +9,9 @@ $$
 This theorem can be easily obtained by a	transformation of joint probability equation as the following.
 
 $$
-\begin{gathered} \\
-p(x, y) &= p(y, x) \\
-\iff p(x|y)p(y) &= p(y|x)p(x)  \\
+\begin{gathered} \\\
+p(x, y) &= p(y, x) \\\
+\iff p(x|y)p(y) &= p(y|x)p(x)  \\\
 \iff p(x|y) &= \frac{p(y|x)p(x)}{p(y)}.
 \end{gathered}
 $$
