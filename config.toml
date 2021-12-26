@@ -7,6 +7,9 @@ theme = "hugo-notepadium"
 logo = "meericon.png"
 slogan = "Computation in Nature"
 
+[params.comments]
+enable = true
+
 [params.math]
 enable = true
 use = "katex"
