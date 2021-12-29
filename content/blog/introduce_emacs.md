@@ -1,8 +1,8 @@
 ---
 title: "introduce imacs"
-description: "This is a post."
+description: "my first emacs"
 date: 2021-12-26
-draft: true
+draft: false
 tags: ["mac", "editor", "emacs", "lisp"]
 ---
 # install emacs
