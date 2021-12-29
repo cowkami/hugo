@@ -2,7 +2,7 @@
 Hi!
 I'm a data-scientist/machine learning engineer.
 
-## Interets
+## Interests
 - Machine Learning
 	- Bayeian methods
 	- Reinforcement Learning
