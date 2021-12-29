@@ -1,5 +1,5 @@
 ---
-title: "introduce imacs"
+title: "introduce emacs"
 description: "my first emacs"
 date: 2021-12-26
 draft: false
